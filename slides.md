@@ -97,8 +97,7 @@ end
 ### Ruby and Tail Optimization
 
 * A Muggle's Guide To Tail Call Optimization
-  * Talk by Danny Guinther at Rubyconf 2015
-  * http://rubyconf.org/program#prop_1447
+* http://rubyconf.org/program#prop_1447
 * Summary: Ruby has it
   * Not turned on by default
   * A bit finicky. Rails test fails with it on
